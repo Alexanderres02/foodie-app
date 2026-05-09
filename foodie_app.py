@@ -250,8 +250,8 @@ st.markdown("**Try an example:**")
 cols = st.columns(len(example_prompts))
 for i, ex in enumerate(example_prompts):
     if cols[i].button(ex, key=f"ex_{i}", use_container_width=True):
-        prompt = ex
         st.session_state["prompt_input"] = ex
+        st.rerun()
 
 # -- RESULTS -------------------------------------------------------
 if prompt and len(prompt.strip()) > 2:
