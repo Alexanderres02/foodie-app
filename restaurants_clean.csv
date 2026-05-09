@@ -1,0 +1,26 @@
+business_id,name,categories,city,state,latitude,longitude,stars,review_count,price_label,price_tier,has_wifi,outdoor_seating,good_for_kids,takes_reservations,happy_hour,byob,vegetarian_friendly,days_open,open_late,open_weekend,open_breakfast
+b001,Shin-Sen-Gumi Hakata Ramen,"Ramen, Japanese, Noodles",Gardena,CA,33.888,-118.308,4.5,1823,$$,2,False,False,True,False,False,False,False,3,True,True,False
+b002,Guerrilla Tacos,"Mexican, Tacos, Street Food, Breakfast & Brunch",Los Angeles,CA,34.021,-118.238,4.3,987,$$,2,False,True,False,False,False,False,False,3,False,True,True
+b003,Providence,"Seafood, Fine Dining, American (New), Cocktail Bars",Los Angeles,CA,34.083,-118.348,4.7,1456,$$,2,True,False,False,True,False,False,False,3,False,True,False
+b004,Howlin' Ray's,"Hot Chicken, Southern, Sandwiches, Fast Food",Los Angeles,CA,34.059,-118.238,4.5,2341,$$,2,False,False,True,False,False,False,False,4,False,True,False
+b005,Bavel,"Middle Eastern, Mediterranean, Bar, Vegetarian",Los Angeles,CA,34.044,-118.238,4.5,1345,$$,2,True,False,False,True,False,False,True,3,True,True,False
+b006,Night + Market Song,"Thai, Asian Fusion, Bar, Vegan",Los Angeles,CA,34.094,-118.325,4.3,1788,$$,2,True,True,False,False,True,False,True,3,True,True,False
+b007,Sonoratown,"Mexican, Tacos, Street Food, Fast Food",Los Angeles,CA,34.055,-118.245,4.5,1122,$$,2,False,False,True,False,False,False,False,3,False,True,False
+b008,Pine & Crane,"Taiwanese, Asian, Vegetarian Friendly, Vegan",Los Angeles,CA,34.094,-118.272,4.4,934,$$,2,True,False,True,False,False,False,True,3,False,True,False
+b009,Dama,"Mexican, Fine Dining, Cocktail Bars, Date Night",Los Angeles,CA,34.044,-118.252,4.4,678,$$,2,True,True,False,True,True,False,False,3,True,True,False
+b010,Langer's Delicatessen,"Delis, Sandwiches, Jewish, Breakfast & Brunch",Los Angeles,CA,34.06,-118.273,4.4,3412,$$,2,True,False,True,False,False,False,True,3,False,True,True
+b011,Connie and Ted's,"Seafood, American, Oyster Bars",Los Angeles,CA,34.083,-118.363,4.3,1567,$$,2,True,True,True,False,True,False,False,3,True,True,False
+b012,Rossoblu,"Italian, Pizza, Wine Bars, Date Night",Los Angeles,CA,34.042,-118.258,4.4,876,$$,2,True,True,False,True,False,False,False,3,True,True,False
+b013,Shiku,"Japanese, Sushi, Omakase, Fine Dining",Los Angeles,CA,34.062,-118.301,4.6,432,$$,2,True,False,False,True,False,False,False,3,False,True,False
+b014,Burgerlords,"Burgers, Vegan, Fast Food, Late Night",Los Angeles,CA,34.097,-118.328,4.2,1203,$$,2,False,True,True,False,False,False,True,4,True,True,False
+b015,Sichuan Impression,"Chinese, Sichuan, Hot Pot, Vegetarian Friendly",Alhambra,CA,34.095,-118.137,4.5,2109,$$,2,False,False,True,False,False,False,True,3,False,True,False
+b016,Guisados,"Mexican, Tacos, Breakfast & Brunch, Catering",Los Angeles,CA,34.056,-118.211,4.4,1876,$$,2,False,False,True,False,False,False,False,3,True,True,True
+b017,Anajak Thai,"Thai, Sushi, Wine Bars, Fine Dining",Sherman Oaks,CA,34.151,-118.447,4.7,934,$$,2,True,False,False,True,True,False,False,3,True,True,False
+b018,Mírame,"Mexican, Cocktail Bars, Fine Dining, Date Night",Beverly Hills,CA,34.067,-118.399,4.3,543,$$,2,True,False,False,True,False,False,False,3,True,True,False
+b019,Broken Spanish,"Mexican, American (New), Bar, Brunch",Los Angeles,CA,34.044,-118.253,4.2,876,$$,2,True,True,False,False,True,False,True,3,False,True,False
+b020,Kismet,"Mediterranean, Vegetarian, Brunch, Bakery",Los Angeles,CA,34.107,-118.296,4.4,1234,$$,2,True,True,True,False,False,False,True,4,False,True,True
+b021,The Park's Finest,"Filipino, BBQ, American, Comfort Food",Los Angeles,CA,34.071,-118.258,4.3,1456,$$,2,False,True,True,False,False,False,True,3,False,True,False
+b022,Kuya Lord,"Filipino, Seafood, Comfort Food, BYOB",Los Angeles,CA,34.067,-118.241,4.6,678,$$,2,False,False,True,False,False,True,False,3,False,True,False
+b023,Pho 79,"Vietnamese, Pho, Soup, Noodles, Budget",Garden Grove,CA,33.772,-117.941,4.3,2876,$$,2,False,False,True,False,False,False,False,3,False,True,True
+b024,Marugame Udon,"Japanese, Udon, Noodles, Fast Casual",Los Angeles,CA,34.043,-118.261,4.1,3421,$$,2,False,False,True,False,False,False,False,4,False,True,False
+b025,Yangban Society,"Korean, American (New), Deli, Brunch",Los Angeles,CA,34.044,-118.238,4.5,876,$$,2,True,True,True,False,False,False,True,4,False,True,False
