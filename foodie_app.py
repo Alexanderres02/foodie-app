@@ -235,6 +235,7 @@ prompt = st.text_input(
     label="search",
     label_visibility="collapsed",
     placeholder="e.g.  'cheap ramen open late'  ·  'romantic date spot with cocktails'  ·  'family-friendly tacos'",
+    value=st.session_state.get("prompt_input", ""),
     key="prompt_input",
 )
 
